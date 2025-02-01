@@ -1,21 +1,9 @@
-# coa4648649bd5594ed982f41b
+# FetchAI.js Project
 
-Quick start:
+Welcome to the FetchAI.js project! This project utilizes OpenAI's GPT-3.5-turbo model to create a chatbot for We-Wingit Drone Deliveries, providing delivery support to users. 
+Project was made for purpose of MDB Academy!
 
-```
-$ npm install
-$ npm start
-````
+## Description
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+The FetchAI.js project consists of a serverless function that interacts with OpenAI's GPT-3.5-turbo model to generate responses for a chatbot integrated into a web interface. The chatbot assists users with their We-Wingit drone deliveries.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
